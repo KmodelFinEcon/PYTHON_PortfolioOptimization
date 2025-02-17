@@ -1,1 +1,1 @@
-Portfolio Risk Parity model using Riskfolio library with backtesting expansion. 
+Various Portfolio Optimization models using Python libraries with backtesting expansion. 
