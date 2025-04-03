@@ -1,1 +1,1 @@
-Various Portfolio Optimization models using Python libraries with backtesting methods. 
+Various Portfolio Optimization models using Python libraries and analytical derivation, econometric forecasting expansion with backtesting methods. 
